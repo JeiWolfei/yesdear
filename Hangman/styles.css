@@ -8,7 +8,6 @@ img {
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-/* Keep it simple - improvement would be to not display characters */
  .letter {
     display: inline-block;
     list-style: none;
