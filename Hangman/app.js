@@ -1,8 +1,8 @@
 (function () {
     "use strict";
     var availableLetters, words, guessInput, guess, guessButton, lettersGuessed,
-     lettersMatched, output, man, letters, lives, currentWord, numLettersMatched,
-    messages;
+        lettersMatched, output, man, letters, lives, currentWord, numLettersMatched,
+        messages;
 
     function setup() {
         /* start config options */
